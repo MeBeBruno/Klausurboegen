@@ -1,2 +1,3 @@
-# Klausurboegen
-A simple collection of custom exam sheet PDFs and SVGs 📃
+# KlausurbögenⒷ
+
+> A simple collection of custom exam sheet PDFs and SVGs 📃
